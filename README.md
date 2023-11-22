@@ -1,3 +1,6 @@
+[![Build status](https://build.appcenter.ms/v0.1/apps/e7c98bfb-12e2-4daf-8579-42ba4388f4cf/branches/main/badge)](https://appcenter.ms)
+[Download](https://install.appcenter.ms/orgs/kai-shopping-list/apps/shopping-list/distribution_groups/public)
+
 # shopping_list
 
 A new Flutter project.
